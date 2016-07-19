@@ -1,3 +1,12 @@
+/*
+Author : Mathieu Dufour
+Email : mathieu_dufour@hotmail.fr
+Date created : 19/07/2016
+For : invivox
+Purpose : Write the numbers 0 to 100, with some specificities.
+*/
+
+
 const http = require('http');
 
 const hostname = '127.0.0.1';
