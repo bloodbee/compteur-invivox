@@ -8,7 +8,7 @@ You need nodejs to be installed in your environment, see https://nodejs.org/en/.
 
 ## Download
 
-Use git to download the program
+Use git to download the program :
 
 ```bash
 $ git clone git@github.com:bloodbee/compteur-invivox.git
@@ -19,6 +19,7 @@ $ git clone git@github.com:bloodbee/compteur-invivox.git
 Launch the app :
 
 ```bash
+$ cd compteur-invivox/
 $ node server.js
 ```
 
