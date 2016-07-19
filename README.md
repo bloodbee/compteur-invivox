@@ -6,6 +6,14 @@ Exercise program for the invivox.com recruitment
 You need nodejs to be installed in your environment, see https://nodejs.org/en/.
 
 
+## Download
+
+Use git to download the program
+
+```bash
+$ git clone git@github.com:bloodbee/compteur-invivox.git
+```
+
 ## Use
 
 Launch the app :
