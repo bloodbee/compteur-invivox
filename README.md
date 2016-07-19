@@ -1,2 +1,26 @@
-# compteur-invivox
-Programme d'exercice pour recrutement Invivox.com
+## compteur-invivox
+Exercise program for the invivox.com recruitment
+
+## First
+
+You need nodejs to be installed in your environment, see https://nodejs.org/en/.
+
+
+## Use
+
+Launch the app :
+
+```bash
+$ node server.js
+```
+
+Then, go to your web browser at the address : http://127.0.0.1:8080/
+
+## License
+
+"THE BEER-WARE LICENSE" (Revision 42):
+<mathieu_dufour@hotmail.fr> wrote this file. As long as you retain this notice you
+can do whatever you want with this stuff. If we meet some day, and you think
+this stuff is worth it, you can buy me a beer in return.
+
+Mathieu Dufour.
